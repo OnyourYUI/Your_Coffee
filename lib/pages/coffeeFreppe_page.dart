@@ -25,7 +25,7 @@ class _coffeeFreppePageState extends State<coffeeFreppePage> {
                       mainAxisSpacing: 15.0,
                       childAspectRatio: 0.8,
                       children: <Widget>[
-                        _buildCard('assets/images/cappuccino Frappe wep.jpg', false, true, context,categoriesItem(
+                        _buildCard('assets/images/Cappuccino Frappe wep.jpg', false, true, context,categoriesItem(
                             id: 1,
                             name: 'Cappuccino',
                             price: 65,
@@ -49,7 +49,7 @@ class _coffeeFreppePageState extends State<coffeeFreppePage> {
                             price: 60,
                             image: "Macchito freppe.jpg",
                             detail: "ลองสักครั้งจะต้องติดใจ 👍"),),
-                        _buildCard('assets/images/Mocca shake pinterest.jpg', false, true, context,categoriesItem(
+                        _buildCard('assets/images/mocca shake pinterest.jpg', false, true, context,categoriesItem(
                             id: 5,
                             name: "Mocca",
                             price: 60,
