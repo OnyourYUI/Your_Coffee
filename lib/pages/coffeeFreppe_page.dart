@@ -29,7 +29,7 @@ class _coffeeFreppePageState extends State<coffeeFreppePage> {
                             id: 1,
                             name: 'Cappuccino',
                             price: 65,
-                            image: 'cappuccino Frappe wep.jpg',
+                            image: 'Cappuccino Frappe wep.jpg',
                             detail: "อากาศร้อน ต้อง Cappuccino Frappe สักแก้วแล้วค่ะ"),),
                         _buildCard('assets/images/Espresso freppe.jpg', false, false, context, categoriesItem(
                             id: 2,
@@ -53,7 +53,7 @@ class _coffeeFreppePageState extends State<coffeeFreppePage> {
                             id: 5,
                             name: "Mocca",
                             price: 60,
-                            image: "Mocca shake pinterest.jpg",
+                            image: "mocca shake pinterest.jpg",
                             detail: "อร่อยแน่นอนค่ะ รับประกัน 😆"),),
                       ]
                   )
